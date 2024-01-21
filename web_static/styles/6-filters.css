@@ -73,7 +73,7 @@
   .filters h3,
   .filters h4 {
     -webkit-box-sizing: border-box;
-    -moz-box-sizing: border.box;
+    -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0;
   }
